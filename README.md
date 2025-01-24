@@ -23,3 +23,11 @@ Para rodar os testes, basta rodar o seguinte comando:
 ```bash
 python tests.py
 ```
+
+# Participantes
+
+Breno Jalmir de Medeiros Almeida
+
+# Vídeo
+
+[Veja aqui](https://www.loom.com/share/aa986158b7134ae3bb26524a6a03a82e?sid=31692715-aae0-4fe4-8ec4-90e99b98f100)
